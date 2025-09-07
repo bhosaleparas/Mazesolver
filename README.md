@@ -24,7 +24,7 @@ Maze Solver CLI is a Java-based command-line application that finds all possible
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/bhosaleparas/Mazesolver.git
 
 2. Compile the java program
     ```bash
